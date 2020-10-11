@@ -1,4 +1,5 @@
 public with sharing class myclass {
+//example
 	public myclass() {
 
 	}
